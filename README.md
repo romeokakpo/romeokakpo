@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roméo KAKPO
-- 👀 I’m interested in Web Developement and Destop app Developement
+- 👀 I’m interested in Web Developement and Desktop app Developement
 - 🌱 I’m currently learning C++, Qt, MERN Stack...
 - 💞️ I’m looking to collaborate on Team
 - 📫 How to reach me : romeokakpo3@gmail.com
