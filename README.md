@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roméo KAKPO
 - 👀 I’m interested in Web Developement and Desktop app Developement
-- 🌱 I’m currently learning C++, Qt,JavaScript,Php, MERN Stack...
+- 🌱 I’m currently learning JavaScript, MERN Stack, Larave, etc...
 - 💞️ I’m looking to collaborate on Team
 - 📫 How to reach me : romeokakpo3@gmail.com
 
