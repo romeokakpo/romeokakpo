@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romeo Kakpo</h1>
 <h3 align="center">A passionate software engineer from Benin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romeokakpo&label=Profile%20views&color=0e75b6&style=flat" alt="romeokakpo" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=romeokakpo&label=Profile%20views&color=0e75b6&style=flat" alt="romeokakpo" /> </p>--->
 
 <p align="left"> <a href="https://twitter.com/kyrroms" target="blank"><img src="https://img.shields.io/twitter/follow/kyrroms?logo=twitter&style=for-the-badge" alt="kyrroms" /></a> </p>
 
