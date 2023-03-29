@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/kyrroms" target="blank"><img src="https://img.shields.io/twitter/follow/kyrroms?logo=twitter&style=for-the-badge" alt="kyrroms" /></a> </p>
 
-- 🔭 I’m currently working on [QuizLigue](https://github.com/romeokakpo/quizligue)
+- 🔭 I’m currently working on [100DaysOfFlutter](https://github.com/romeokakpo/100DaysOfFlutter)
 
-- 🌱 I’m currently learning **advanced Javascript, Python**
+- 🌱 I’m currently learning **Flutter, advanced C/C++**
 
-- 💬 Ask me about **React, Laravel, Python**
+- 💬 Ask me about **Flutter,Javascript, Laravel, Python**
 
 - 📫 How to reach me **romeokakpo3@gmail.com**
 
