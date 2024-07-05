@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [100DaysOfFlutter](https://github.com/romeokakpo/100DaysOfFlutter)
 
-- 🌱 I’m currently learning **Flutter, advanced C/C++**
+- 🌱 I’m currently learning **Blockchain and AI**
 
-- 💬 Ask me about **Flutter,Javascript, Laravel, Python**
+- 💬 Ask me about **Javascript,Python, Flutter, Laravel**
 
 - 📫 How to reach me **romeokakpo3@gmail.com**
 
