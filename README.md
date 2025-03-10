@@ -8,9 +8,9 @@
 --| --| --| --|
 --->
 
-- 🔭 I’m currently working on [100DaysOfFlutter](https://github.com/romeokakpo/100DaysOfFlutter)
+- 🔭 I’m currently working on [SpendWise](https://github.com/romeokakpo/SpendWise)
 
-- 🌱 I’m currently learning **Blockchain and AI**
+- 🌱 I’m currently learning **FullStack JavaScript**
 
 - 💬 Ask me about **Javascript,Python, Flutter, Laravel**
 
